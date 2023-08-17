@@ -18,7 +18,6 @@ a {
 body {
     background-image: linear-gradient( to bottom right,#711A75,#F582A7);
 }
-
 .container {
     height: 100vh;
     width: 100vw;
@@ -68,7 +67,7 @@ body {
     margin: 0 10px;
     height: 150px;
     width: auto;
-    max-width: 270px;
+    max-width: 271px;
     display: flex;
     align-items: flex-end;
     justify-content: flex-end;
